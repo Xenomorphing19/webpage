@@ -13,6 +13,10 @@ h1 {
   width: auto;
   display:inline-block;
 }
+.phonepic{
+  width: 20%;
+  height: auto;
+}
 h1:hover{
   color: #ffd31d;
 }
