@@ -1,0 +1,151 @@
+body {
+  margin: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+h1 {
+  position: relative;
+  margin: 0;
+  font-size: 400%;
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  display:inline-block;
+}
+h1:hover{
+  color: #ffd31d;
+}
+h2 {
+  margin: 10px;
+  margin-top: 10px;
+  font-size: 150%;
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  color: #679b9b;
+  font-family: 'Bellota', cursive;
+}
+h3{
+  color: #679b9b;
+  font-family: 'Montserrat', sans-serif;
+  font-style: italic;
+}
+
+p {
+  font-size: 150%;
+}
+hr{
+  border-width:  10px 0 0 0;
+  border-style: dotted;
+  border-color: grey;
+  width: 15%;
+  margin: 2% auto 2% auto ;
+}
+.sports{
+  width:35%;
+}
+.computer{
+  width: 25%;
+  margin-top: 7%;
+}
+.desc{
+  font-size: 120%;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 20px;
+}
+.top {
+  background-color: #eaf4f4;
+  text-align: center;
+  padding-top: 50px;
+  font-family: 'Cinzel Decorative', cursive;
+}
+.top-buttons{
+  margin: 10px;
+  border-top: 50px;
+}
+.top-buttons:hover{
+  color:#ffd31d;
+}
+.scroll{
+  background-color: #eaf4f4;
+  color:  #679b9b;
+  font-family: 'Cinzel Decorative', cursive;
+  text-align: center;
+  padding-top: 3%;
+}
+.text-top {
+  color: #679b9b;
+}
+
+.sun {
+  position: absolute;
+  right: 20%;
+  top: 3%;
+  max-width: 50%;
+  height: auto;
+  width: auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 18%;
+  top: 20%;
+  max-width: 100%;
+  height: auto;
+  width: auto;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 25%;
+  max-width: 100%;
+  height: auto;
+  width: auto;
+}
+
+.mountain {
+  max-width: 100%;
+  height: auto;
+  width: auto;
+}
+
+.middle-container {
+  margin-top: 2%;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  margin-top: 2%;
+}
+a{
+  color:  #679b9b;
+}
+
+.propic {
+  max-width: 75px;
+  height: auto;
+  margin-top: 15px;
+}
+.Btn{
+  font-family: sans-serif;
+  background-color: #dddddd;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+.btn:hover{
+  color: #ffd31d;
+}
+.bottom-container{
+  background-color: #679b9b;
+  text-align: center;
+  padding: 20px 0 20px 0;
+  margin-bottom: 0;
+  font-family: 'Bellota', cursive;
+}
+.footer-link{
+  margin:20px;
+  color: white;
+}
+.footer-link:hover{
+  color: #ffd31d;
+}
